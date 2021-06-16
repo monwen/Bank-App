@@ -1,0 +1,15 @@
+INFO  | 2021-06-14 15:06:59 | [main] service.bankingService (bankingService.java:102) - transaction id: null, from account: 14, to account14, method: deposit, amount: 200.0, time: null
+INFO  | 2021-06-14 15:20:57 | [main] service.LoggService (LoggService.java:11) - transaction id: 17, from account: 14, to account14, method: deposit, amount: 300.0, time: 2021-06-14 15:21:06.664854
+INFO  | 2021-06-14 20:23:01 | [main] service.LoggService (LoggService.java:11) - transaction id: 18, from account: 19, to account19, method: deposit, amount: 500.0, time: 2021-06-14 20:23:11.448663
+INFO  | 2021-06-14 20:23:28 | [main] service.LoggService (LoggService.java:11) - transaction id: 19, from account: 19, to account19, method: withdraw, amount: 300.0, time: 2021-06-14 20:23:39.133152
+INFO  | 2021-06-14 20:25:42 | [main] service.LoggService (LoggService.java:11) - transaction id: 20, from account: 20, to account21, method: transfer, amount: 500.0, time: 2021-06-14 20:25:52.940936
+INFO  | 2021-06-15 02:10:28 | [main] service.LoggService (LoggService.java:11) - transaction id: 21, from account: 22, to account22, method: withdraw, amount: 500.0, time: 2021-06-15 02:10:38.978402
+INFO  | 2021-06-15 02:11:08 | [main] service.LoggService (LoggService.java:11) - transaction id: 22, from account: 22, to account22, method: deposit, amount: 200.0, time: 2021-06-15 02:11:18.508528
+INFO  | 2021-06-15 02:15:02 | [main] service.LoggService (LoggService.java:11) - transaction id: 23, from account: 22, to account23, method: transfer, amount: 25.0, time: 2021-06-15 02:15:12.888931
+INFO  | 2021-06-15 02:16:32 | [main] service.LoggService (LoggService.java:11) - transaction id: 24, from account: 22, to account24, method: self transfer, amount: 200.0, time: 2021-06-15 02:16:43.395205
+INFO  | 2021-06-15 03:29:05 | [main] service.LoggService (LoggService.java:11) - transaction id: 25, from account: 25, to account25, method: deposit, amount: 200.0, time: 2021-06-15 03:29:16.150752
+INFO  | 2021-06-15 03:30:03 | [main] service.LoggService (LoggService.java:11) - transaction id: 26, from account: 25, to account25, method: withdraw, amount: 200.0, time: 2021-06-15 03:30:13.985132
+INFO  | 2021-06-15 03:49:51 | [main] service.LoggService (LoggService.java:11) - transaction id: 27, from account: 26, to account26, method: deposit, amount: 100.0, time: 2021-06-15 03:50:01.709559
+INFO  | 2021-06-15 03:50:26 | [main] service.LoggService (LoggService.java:11) - transaction id: 28, from account: 26, to account26, method: withdraw, amount: 200.0, time: 2021-06-15 03:50:37.30528
+INFO  | 2021-06-15 03:52:11 | [main] service.LoggService (LoggService.java:11) - transaction id: 29, from account: 26, to account27, method: self transfer, amount: 20.0, time: 2021-06-15 03:52:22.274105
+INFO  | 2021-06-15 03:54:25 | [main] service.LoggService (LoggService.java:11) - transaction id: 30, from account: 27, to account28, method: transfer, amount: 50.0, time: 2021-06-15 03:54:35.912709

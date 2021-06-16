@@ -17,6 +17,10 @@ public class Person {
 	private String status;
 	
 	
+	public Person() {
+		
+	}
+	
 	public Person(String personType) {
 		this.firstName = "";
 		this.lastName = "";
